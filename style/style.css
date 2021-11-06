@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+.container{
+    max-width: 1320px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+
+body{
+    background: #3a3f58;;
+}
+
+.sub{
+    color: #ece6cd;
+    margin-bottom: 5px;
+}
+.col{
+    color: #ee6a59;
+}
+
+a{
+    color:red;
+    transition: 300ms;
+}
+a:hover{
+    color: rgb(255, 251, 0);
+}
+
+.block{
+    display: flex;
+}
+
+.moods{
+margin-bottom: 15px;
+margin-top: 15px;
+}
+
+.Name{
+    margin-bottom: 25px;
+}
+
+.classes{
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.description{
+    margin-bottom: 10px;
+}
+
+.movies{
+    margin-bottom: 15px;
+    margin-top:15px ;
+}
+
+.my-friend{
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
